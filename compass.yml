@@ -1,0 +1,14 @@
+name: attribution
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/3f3dc7f4-3d25-4634-9301-0177b66de07a
+description: Privacy-Preserving Attribution
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:bikeshed
+  - source:github
+customFields: null
